@@ -1,0 +1,2 @@
+# taringando
+PWA for Taringa
